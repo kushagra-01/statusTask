@@ -1,0 +1,86 @@
+[
+  {
+    "id": "org#ankit-er-registry-6904:shipment#SHIPMENT-TEST-REGISTRY-1~shipment#SHIPMENT-TEST-REGISTRY-1-X",
+    "value": {
+      "params": {
+        "ffCode": "KHNN",
+        "scac": "HLCU",
+        "mbl": "HLCUNG12201UNAU5",
+        "bkc": "",
+        "hbl": "1046200315",
+        "containers": [
+          {
+            "equipmentNo": "HLBU3116426",
+            "type": ""
+          }
+        ],
+        "status": "dirty",
+        "writeBackTarget": "idenversio-dev",
+        "lastSweepAt": "2022-08-09 13:38:56"
+      }
+    }
+  },
+  {
+    "id": "org#ankcopper-registry-6904:shipment#SHIPMENT-TEST-REGISTRY-1~shipment#SHIPMENT-TEST-REGISTRY-1-X",
+    "value": {
+      "params": {
+        "ffCode": "KHNN",
+        "scac": "HLCU",
+        "mbl": "HLCUNG12201UNAU5",
+        "bkc": "",
+        "hbl": "1046200315",
+        "containers": [
+          {
+            "equipmentNo": "HLBU3116426",
+            "type": ""
+          }
+        ],
+        "status": "dirty",
+        "writeBackTarget": "idenversio-dev",
+        "lastSweepAt": "2022-08-09 13:38:56"
+      }
+    }
+  },
+  {
+    "id": "orgkit-copper-registry-6904:shipment#SHIPMENT-TEST-REGISTRY-1~shipment#SHIPMENT-TEST-REGISTRY-1-X",
+    "value": {
+      "params": {
+        "ffCode": "KHNN",
+        "scac": "HLCU",
+        "mbl": "HLCUNG12201UNAU5",
+        "bkc": "",
+        "hbl": "1046200315",
+        "containers": [
+          {
+            "equipmentNo": "HLBU3116426",
+            "type": ""
+          }
+        ],
+        "status": "dirty",
+        "writeBackTarget": "idenversio-dev",
+        "lastSweepAt": "2022-08-09 13:38:56"
+      }
+    }
+  },
+  {
+    "id": "g#ankit-copper-registry-6904:shipment#SHIPMENT-TEST-REGISTRY-1~shipment#SHIPMENT-TEST-REGISTRY-1-X",
+    "value": {
+      "params": {
+        "ffCode": "KHNN",
+        "scac": "HLCU",
+        "mbl": "HLCUNG12201UNAU5",
+        "bkc": "",
+        "hbl": "1046200315",
+        "containers": [
+          {
+            "equipmentNo": "HLBU3116426",
+            "type": ""
+          }
+        ],
+        "status": "dirty",
+        "writeBackTarget": "idenversio-dev",
+        "lastSweepAt": "2022-08-09 13:38:56"
+      }
+    }
+  }
+]

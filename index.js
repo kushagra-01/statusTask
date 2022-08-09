@@ -9,7 +9,7 @@ documents.map(element => {
   
     const updateStatus = {
       ...element.value.params ,
-      status: "dirty",
+      status: "sweep",
       lastSweepAt: new Date().toISOString().replace(/T/, " ").replace(/\..+/, "")
     };
     let updatedDocuments = {

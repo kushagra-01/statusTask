@@ -22,7 +22,7 @@ console.log(currentYear, currentMonth, currentDay,currentHour, currentMinute, cu
     if ((currentMonth > documentMonth) || (currentDay > documentDay) || (currentHour > documentHour) || (currentMinute - 15 > documentMinute)) {
       const updateStatus = {
         ...record.value.params,
-        status: "iiia"
+        status: "sweep"
       };
       const updatedDocuments = {
         id: record.id,

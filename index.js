@@ -3,7 +3,7 @@ const documents = require("./data.json")
 const fs = require('fs');
 
 console.log(documents[0].value.params)
-let arr =[];
+let list =[];
   // status changed to sweep
 documents.map(element => {
   
@@ -16,10 +16,10 @@ documents.map(element => {
       id: element.id,
       value: { params: updateStatus }
     };
-    arr.push(updatedDocuments);
+    list.push(updatedDocuments);
      
   });
-  fs.writeFile("./data.json",JSON.stringify(arr, null, 2),err =>{
+  fs.writeFile("./data.json",JSON.stringify(list, null, 2),err =>{
     if(err){
       console.log(err)
     }
